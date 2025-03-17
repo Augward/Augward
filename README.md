@@ -1,7 +1,7 @@
 ## Hello and welcome to my page!
 
 #### I'm a college student in the prgress of working towards my degree and am looking for entry level work to jump into the job market!
-- I am educated in C++ and Python
+- I am educated in C++, Python, and Java
 - Have experience in Matlab, HTML, and JavaScript
 - I'm interested in data structure and software projects
 - I've worked on several college level projects with team members
