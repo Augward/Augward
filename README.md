@@ -5,4 +5,4 @@
 - Have experience in Matlab, HTML, and JavaScript
 - I'm interested in data structure and software projects
 - I've worked on several college level projects with team members
-- You can reach out to me at ward31513@gmail.com or https://uiowa.joinhandshake.com/profiles/48694983
+- You can reach out to me at ward31513@gmail.com or linkedin.com/in/augustinward/
